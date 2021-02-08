@@ -1,0 +1,6 @@
+This my second chapter
+Here I write what I have learned for now.
+git init - to initialize git 
+git commit -m "Ur message / name of a commit" - to tracking
+git log 
+git status 
